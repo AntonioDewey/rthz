@@ -1,0 +1,211 @@
+Mid,1183.144,3050.032,128.031,1170.024,587.968,120.110,crouch=false,auto_motion=true,de_inferno
+Mid,1185.645,2648.105,132.419,1170.024,587.968,120.110,crouch=false,auto_motion=true,de_inferno
+Corner,1247.850,2675.935,131.885,926.969,2203.968,136.366,crouch=false,auto_motion=true,de_inferno
+Yellow wall[AWP],1148.039,2890.929,128.031,852.835,2590.847,160.084,crouch=false,auto_motion=true,de_inferno
+Banana splits[Fake Duck],1063.606,3375.298,154.215,687.756,2094.576,138.827,crouch=false,auto_motion=true,de_inferno
+Ruins,666.498,2110.285,138.827,1034.598,3137.087,128.031,crouch=false,auto_motion=true,de_inferno
+Bridge,1954.157,-109.572,296.531,-394.949,-65.836,192.031,crouch=false,auto_motion=true,de_inferno
+Balcony,-379.093,5.245,192.531,1954.157,-109.572,296.531,crouch=false,auto_motion=true,de_inferno
+T Balcony,2006.010,-113.459,296.531,916.670,-19.767,285.687,crouch=false,auto_motion=true,de_inferno
+Apartments,2130.032,-130.820,159.031,1234.359,-381.394,260.031,crouch=false,auto_motion=true,de_inferno
+Apartments,2130.032,-130.820,159.031,1445.401,-312.862,256.031,crouch=false,auto_motion=true,de_inferno
+Site,2181.354,-251.768,131.031,1484.965,163.464,132.031,crouch=false,auto_motion=true,de_inferno
+Site,1407.026,208.585,129.990,2181.354,-251.768,131.031,crouch=false,auto_motion=true,de_inferno
+Door[Fake Duck],1999.883,-166.493,256.031,1262.968,-689.969,128.031,crouch=false,auto_motion=true,de_inferno
+Balcony[Fake Duck],1819.031,608.032,159.920,1937.690,-188.458,260.031,crouch=false,auto_motion=true,de_inferno
+Library[AWP],1879.584,-288.000,261.031,2527.802,1097.340,159.698,crouch=false,auto_motion=true,de_inferno
+Balcony[AWP],2527.802,1097.340,159.698,1879.584,-288.000,261.031,crouch=false,auto_motion=true,de_inferno
+Push,2554.345,1162.563,157.969,1480.298,945.743,147.682,crouch=false,auto_motion=true,de_inferno
+Push,1433.697,925.940,146.369,2554.345,1162.563,157.969,crouch=false,auto_motion=true,de_inferno
+Apartments,1145.151,557.220,118.197,1209.792,-49.158,256.031,crouch=false,auto_motion=true,de_inferno
+Mid,1200.441,1.049,256.031,1160.922,518.928,111.145,crouch=false,auto_motion=true,de_inferno
+Mid,1192.789,226.062,168.694,907.219,711.281,105.085,crouch=false,auto_motion=true,de_inferno
+T ramp,1013.754,-20.686,256.031,40.600,840.378,80.031,crouch=false,auto_motion=true,de_inferno
+T ramp,1013.754,-20.686,256.031,319.236,608.417,84.719,crouch=false,auto_motion=true,de_inferno
+Stairs splits[Fake Duck],1033.644,-98.499,256.031,985.491,-658.543,97.547,crouch=false,auto_motion=true,de_inferno
+T ramp,364.790,-167.562,110.031,-16.049,839.238,80.031,crouch=false,auto_motion=true,de_inferno
+Second mid,-9.396,841.628,80.031,364.790,-167.562,110.031,crouch=false,auto_motion=true,de_inferno
+T ramp,375.956,-642.275,97.109,84.945,882.073,80.031,crouch=false,auto_motion=true,de_inferno
+Back Alley,97.000,884.252,80.031,376.082,-642.249,97.109,crouch=false,auto_motion=true,de_inferno
+T Apartment,218.386,494.102,122.031,-60.120,308.263,192.031,crouch=false,auto_motion=true,de_inferno
+T Apartment,45.036,672.991,81.031,-162.287,306.008,192.031,crouch=false,auto_motion=true,de_inferno
+Arched door,373.885,1671.918,134.031,1787.989,1318.935,160.031,crouch=false,auto_motion=true,de_inferno
+Leg,238.516,653.607,82.169,1392.979,659.451,125.827,crouch=false,auto_motion=true,de_inferno
+Door,2305.484,848.421,152.475,1528.112,1117.763,163.812,crouch=false,auto_motion=true,de_inferno
+Door,1528.112,1117.763,163.812,2305.484,848.421,152.475,crouch=false,auto_motion=true,de_inferno
+TestCoord,-1488.876,-692,123,-1637,538,34,crouch=false,auto_motion=true,de_dust2
+Mid&Sands,-390.921,-812.277,88.320,-433.742,2226.985,-120.799,crouch=false,auto_motion=true,de_dust2
+Sands,366.853,1696.071,65.213,-778.234,2442.214,-77.661,crouch=false,auto_motion=true,de_dust2
+Windows,11.595,-554.674,1.709,-455.027,-378.811,55.359,crouch=false,auto_motion=true,de_dust2
+Long Doors,323.209,-663.140,3.014,580.663,590.463,1.227,crouch=false,auto_motion=true,de_dust2
+Long Doors,414.440,242.834,0.486,539.031,342.411,1.567,crouch=false,auto_motion=true,de_dust2
+Outside Long,555.477,339.183,1.484,414.272,242.727,0.481,crouch=false,auto_motion=true,de_dust2
+Outside Long,694.642,882.380,-0.346,487.084,222.859,1.076,crouch=false,auto_motion=true,de_dust2
+Long Doors[AWP],78.855,394.972,-1.417,631.509,495.308,1.008,crouch=false,auto_motion=true,de_dust2
+Long Doors[AWP],-432.338,266.504,-1.359,627.781,476.178,1.038,crouch=false,auto_motion=true,de_dust2
+T Start,664.244,799.955,0.499,322.065,-663.161,3.016,crouch=false,auto_motion=true,de_dust2
+Mid,420.469,1692.113,62.437,-211.391,1216.281,-0.031,crouch=false,auto_motion=true,de_dust2
+Mid,-1107.191,2485.800,30.885,-174.834,1367.361,-0.069,crouch=false,auto_motion=true,de_dust2
+Mid bench,-1239.431,2680.526,120.128,-239.226,1369.160,32.031,crouch=false,auto_motion=true,de_dust2
+Mid doors[Duck],169.407,2530.953,-116.286,-392.580,1892.297,-126.621,crouch=false,auto_motion=true,de_dust2
+Mid doors[Duck],344.153,2443.386,-119.971,-357.003,1936.158,-125.562,crouch=false,auto_motion=true,de_dust2
+Mid doors[AWP&Duck],-1354.000,2680.402,130.031,-430.076,1738.737,-126.568,crouch=false,auto_motion=true,de_dust2
+Mid doors[AWP],-1190.247,2511.268,46.278,-430.076,1738.737,-126.568,crouch=false,auto_motion=true,de_dust2
+Mid doors[Fake Duck],123.376,2404.734,-119.988,-364.314,1958.911,-126.317,crouch=false,auto_motion=true,de_dust2
+Mid doors[Fake Duck],-1879.033,2395.862,13.037,-569.966,2076.533,-117.970,crouch=false,auto_motion=true,de_dust2
+Mid[AWP],631.509,495.308,1.008,-57.413,428.241,-1.180,crouch=false,auto_motion=true,de_dust2
+A short[AWP],694.984,-31.874,60.773,373.435,1992.360,95.775,crouch=false,auto_motion=true,de_dust2
+A short[AWP],-197.331,1229.901,0.115,420.469,1692.113,62.437,crouch=false,auto_motion=true,de_dust2
+A short[AWP],-1292.541,2671.364,130.031,273.034,1752.835,89.166,crouch=false,auto_motion=true,de_dust2
+A short[AWP],-1402.100,2701.932,125.031,273.034,1752.835,89.166,crouch=false,auto_motion=true,de_dust2
+A short,-275.031,1356.967,-68.969,326.947,1536.281,2.774,crouch=false,auto_motion=true,de_dust2
+T Cat&Long,426.388,1999.480,132.531,693.418,-32.413,60.773,crouch=false,auto_motion=true,de_dust2
+Long[AWP-HD],419.118,1957.829,132.531,660.007,331.299,0.949,crouch=false,auto_motion=true,de_dust2
+T Cat&Long,451.720,1787.156,103.052,694.672,-31.663,60.773,crouch=false,auto_motion=true,de_dust2
+T Cat&Long,451.720,1787.156,103.052,628.709,565.274,0.987,crouch=false,auto_motion=true,de_dust2
+Door,267.135,432.993,-0.081,-275.218,581.709,1.384,crouch=false,auto_motion=true,de_dust2
+Door,-275.218,581.709,1.384,267.135,432.993,-0.081,crouch=false,auto_motion=true,de_dust2
+Top Mid Corner(Duck),-6.991,2013.787,-122.916,-121.093,467.858,-0.575,crouch=false,auto_motion=true,de_dust2
+A Long,189.739,2358.083,-119.969,1370.327,1252.200,-9.461,crouch=false,auto_motion=true,de_dust2
+A Long,885.898,2401.059,127.053,1222.743,1195.964,0.248,crouch=false,auto_motion=true,de_dust2
+A Long[Duck],326.462,2201.459,97.722,1342.130,1270.825,-7.418,crouch=false,auto_motion=true,de_dust2
+Lower B,-265.324,2149.172,-126.534,-1047.686,1335.467,-111.083,crouch=false,auto_motion=true,de_dust2
+Lower B[AWP 50D],30.796,1444.411,-0.633,-1077.687,1324.653,-111.969,crouch=false,auto_motion=true,de_dust2
+Lower B[AWPvsSSG],-763.969,1334.033,-111.679,-1072.028,1317.276,-111.969,crouch=false,auto_motion=true,de_dust2
+Lower B[AWPvsSSG],-1048.051,1321.828,-111.009,-763.969,1334.033,-111.679,crouch=false,auto_motion=true,de_dust2
+Door[Harder],-149.043,1160.124,-0.722,136.859,1334.031,1.084,crouch=false,auto_motion=true,de_dust2
+CT,985.667,2419.605,127.087,473.459,2424.244,-118.109,crouch=false,auto_motion=true,de_dust2
+CT,1026.549,2418.375,170.031,473.459,2424.244,-118.109,crouch=false,auto_motion=true,de_dust2
+CT,781.783,2420.537,138.281,473.459,2424.244,-118.109,crouch=false,auto_motion=true,de_dust2
+CT,656.305,2421.697,127.031,473.459,2424.244,-118.109,crouch=false,auto_motion=true,de_dust2
+CT[Duck],713.306,2366.864,24.835,473.459,2424.244,-118.109,crouch=false,auto_motion=true,de_dust2
+Above,474.857,2428.058,-116.239,656.468,2421.791,127.031,crouch=false,auto_motion=true,de_dust2
+Above,474.857,2428.058,-116.239,781.852,2420.593,138.281,crouch=false,auto_motion=true,de_dust2
+CT[Fake Duck],1340.467,2392.214,36.743,369.565,2425.466,-119.969,crouch=false,auto_motion=true,de_dust2
+CT Box [AWP],-1298.736,1083.393,35.085,-265.324,2149.172,-126.534,crouch=false,auto_motion=true,de_dust2
+CT Box,-1072.093,1317.220,-111.969,-265.324,2149.172,-126.534,crouch=false,auto_motion=true,de_dust2
+Box,359.292,1658.060,35.504,-169.031,2010.031,-122.267,crouch=false,auto_motion=true,de_dust2
+Box,331.326,1643.637,21.967,-57.967,2010.221,-121.436,crouch=false,auto_motion=true,de_dust2
+Upper B[AWP],-246.863,2190.884,-125.573,-1298.736,1083.393,35.085,crouch=false,auto_motion=true,de_dust2
+Upper B[AWP],-569.572,1744.314,-115.326,-1944.299,1417.195,33.339,crouch=false,auto_motion=true,de_dust2
+Tunnel Exit[R8vsPis],-1273.966,2339.369,14.641,-1980.032,1748.224,31.629,crouch=false,auto_motion=true,de_dust2
+A short Stair,-204.859,2023.465,-123.933,359.263,1658.020,34.159,crouch=false,auto_motion=true,de_dust2
+A short Stair,-49.889,2028.074,-121.682,331.301,1643.571,21.927,crouch=false,auto_motion=true,de_dust2
+A short Stair,-694.122,2367.146,-106.330,366.886,1696.002,65.165,crouch=false,auto_motion=true,de_dust2
+Mid[MD],-1136.161,-363.200,-55.969,67.977,-423.276,-180.853,crouch=false,auto_motion=true,de_mirage
+Mid Door,-1180.138,-695.023,-167.969,242.423,-196.620,-167.570,crouch=false,auto_motion=true,de_mirage
+Mid[Duck],-1568.617,-973.410,-198.370,-180.302,-733.429,-235.768,crouch=false,auto_motion=true,de_mirage
+Chair,-617.522,-838.078,-263.969,-363.966,-887.116,-167.969,crouch=false,auto_motion=true,de_mirage
+Conn Arch,-57.306,-934.967,-165.370,-617.533,-838.192,-263.969,crouch=false,auto_motion=true,de_mirage
+Stairs,-976.032,-332.714,-367.969,574.996,-1575.664,-263.969,crouch=false,auto_motion=true,de_mirage
+Stairs,-473.717,-1660.034,-163.969,-527.361,-1347.722,-150.583,crouch=false,auto_motion=true,de_mirage
+Stairs,-556.642,-1314.610,-163.969,-472.844,-1660.318,-163.969,crouch=false,auto_motion=true,de_mirage
+Stairs&Tetris,-617.223,-798.830,-263.969,280.031,-1660.987,-175.969,crouch=false,auto_motion=true,de_mirage
+T Apts,-982.833,-384.788,-343.571,205.968,829.090,-135.969,crouch=false,auto_motion=true,de_mirage
+Box,-841.462,-399.103,-165.047,-935.991,144.831,-172.119,crouch=false,auto_motion=true,de_mirage
+B Box,-1027.713,-474.412,-298.759,-898.228,128.326,-171.523,crouch=false,auto_motion=true,de_mirage
+B Box,-967.284,37.118,-367.969,-907.711,94.879,-167.405,crouch=false,auto_motion=true,de_mirage
+B Box,-964.981,-200.508,-363.969,-912.469,188.626,-172.862,crouch=false,auto_motion=true,de_mirage
+B Box[Duck],-844.486,-788.967,-221.969,-904.753,89.500,-165.969,crouch=false,auto_motion=true,de_mirage
+B Box[Duck],-702.129,-927.915,-220.008,-904.753,89.500,-165.969,crouch=false,auto_motion=true,de_mirage
+Underpass,-912.469,188.626,-172.862,-964.981,-200.508,-363.969,crouch=false,auto_motion=true,de_mirage
+Underpass,-1591.659,243.600,-169.570,-1040.320,-367.467,-352.231,crouch=false,auto_motion=true,de_mirage
+Arched door,-1040.247,-368.947,-351.492,-1591.659,243.600,-169.570,crouch=false,auto_motion=true,de_mirage
+Underpass,-1785.087,253.196,-165.719,-881.901,352.033,-367.969,crouch=false,auto_motion=true,de_mirage
+Underpass,-1716.605,372.661,-169.283,-1040.049,326.032,-367.969,crouch=false,auto_motion=true,de_mirage
+Underpass[Duck],-2083.948,-543.353,-167.969,-1039.522,-349.462,-361.234,crouch=false,auto_motion=true,de_mirage
+Underpass,-2120.221,-487.562,-167.969,-1039.522,-349.462,-361.234,crouch=false,auto_motion=true,de_mirage
+Underpass,-1608.297,-1766.086,-265.828,-995.532,-129.642,-367.969,crouch=false,auto_motion=true,de_mirage
+Underpass,-1724.049,-2066.666,-264.275,-995.532,-129.642,-367.969,crouch=false,auto_motion=true,de_mirage
+Underpass,-1589.916,-984.559,-201.556,-973.040,-245.100,-367.969,crouch=false,auto_motion=true,de_mirage
+Underpass[Duck],-1557.116,-945.237,-190.321,-973.040,-245.100,-367.969,crouch=false,auto_motion=true,de_mirage
+Apartment,-1535.188,531.956,-166.969,-1331.190,730.933,-79.969,crouch=false,auto_motion=true,de_mirage
+Apartment,-1535.188,531.956,-166.969,-1129.318,707.570,-79.969,crouch=false,auto_motion=true,de_mirage
+Darkroom,-1549.716,128.471,-167.975,-1164.515,-304.667,-55.969,crouch=false,auto_motion=true,de_mirage
+Windows,-1570.427,203.435,-169.003,-1151.726,-761.978,-167.969,crouch=false,auto_motion=true,de_mirage
+Windows,-708.825,-805.249,-263.969,-1120.860,-1160.914,-167.969,crouch=false,auto_motion=true,de_mirage
+Windows,-708.825,-805.249,-263.969,-1345.142,-977.120,-167.969,crouch=false,auto_motion=true,de_mirage
+Windows,-708.825,-805.249,-263.969,-1504.033,-1411.998,-259.969,crouch=false,auto_motion=true,de_mirage
+Windows[Duck],-1044.600,-224.582,-367.969,-1211.207,-1067.749,-167.969,crouch=false,auto_motion=true,de_mirage
+Windows desks,-672.627,-797.651,-263.969,-1120.031,-1014.992,-131.844,crouch=false,auto_motion=true,de_mirage
+Market,-1039.936,-349.274,-361.328,-1755.206,-619.673,-167.969,crouch=false,auto_motion=true,de_mirage
+Market,-1039.936,-349.274,-361.328,-2157.197,-585.683,-167.969,crouch=false,auto_motion=true,de_mirage
+Market,-1039.936,-349.274,-361.328,-1953.497,-431.301,-167.969,crouch=false,auto_motion=true,de_mirage
+Market,-1039.936,-349.274,-361.328,-2312.985,-342.576,-167.969,crouch=false,auto_motion=true,de_mirage
+Market,-1041.454,348.557,-367.969,-2312.985,-342.576,-167.969,crouch=false,auto_motion=true,de_mirage
+Market[Mid],-1040.913,333.251,-367.969,-2312.985,-342.576,-167.969,crouch=false,auto_motion=true,de_mirage
+CT,558.543,-1707.923,-262.145,-1100.102,-2470.820,-167.969,crouch=false,auto_motion=true,de_mirage
+CT,583.865,-1718.960,-258.108,-1408.033,-2197.804,-235.969,crouch=false,auto_motion=true,de_mirage
+CT,583.865,-1718.960,-258.108,-1414.158,-2119.918,-235.969,crouch=false,auto_motion=true,de_mirage
+Arch,541.451,-1707.963,-263.969,145.951,-2007.871,-39.969,crouch=false,auto_motion=true,de_mirage
+Palace,497.283,-1707.967,-260.607,563.927,-2253.415,-39.969,crouch=false,auto_motion=true,de_mirage
+Palace,497.283,-1707.967,-260.607,350.707,-2065.612,-39.969,crouch=false,auto_motion=true,de_mirage
+Palace,439.322,-1705.018,-231.626,985.463,-2003.662,-71.969,crouch=false,auto_motion=true,de_mirage
+Palace,244.397,-1585.967,-175.969,260.075,-2314.062,-39.969,crouch=false,auto_motion=true,de_mirage
+Palace,-129.656,-2412.966,-163.969,638.045,-2271.097,-39.969,crouch=false,auto_motion=true,de_mirage
+Palace[Duck],-33.510,-1710.895,-167.969,519.052,-2129.454,-39.969,crouch=false,auto_motion=true,de_mirage
+Palace[Duck],-61.235,-1712.158,-167.969,731.200,-2169.531,-39.969,crouch=false,auto_motion=true,de_mirage
+Palace push,1184.045,-1477.966,-167.969,965.314,-1825.055,-71.969,crouch=false,auto_motion=true,de_mirage
+Palace push,1184.045,-1477.966,-167.969,1071.386,-1768.032,-39.969,crouch=false,auto_motion=true,de_mirage
+Palace push,1184.045,-1477.966,-167.969,958.702,-1919.517,-71.969,crouch=false,auto_motion=true,de_mirage
+A1 Box,504.763,-2051.453,-39.969,-61.555,-1711.379,-167.969,crouch=false,auto_motion=true,de_mirage
+A1,339.334,-2065.921,-39.969,191.266,-1578.766,-173.292,crouch=false,auto_motion=true,de_mirage
+A1,575.827,-1987.228,-39.969,540.966,-1707.965,-263.969,crouch=false,auto_motion=true,de_mirage
+A1,651.618,-1991.033,-39.969,540.966,-1707.965,-263.969,crouch=false,auto_motion=true,de_mirage
+A1,530.561,-2003.540,-39.969,563.029,-1515.613,-260.013,crouch=false,auto_motion=true,de_mirage
+A1[AWP&Duck],-1642.885,-1440.251,-263.990,334.305,-1524.620,-179.117,crouch=false,auto_motion=true,de_mirage
+Site corner[Duck],1218.108,-1472.177,-167.969,-130.520,-2412.849,-163.969,crouch=false,auto_motion=true,de_mirage
+Door,1134.109,284.544,-253.042,357.092,362.408,-261.842,crouch=false,auto_motion=true,de_mirage
+Door,357.092,362.408,-261.842,1134.109,284.544,-253.042,crouch=false,auto_motion=true,de_mirage
+Market Door,-180.302,-733.429,-235.768,-1695.760,-945.767,-186.654,crouch=false,auto_motion=true,de_mirage
+Conn Arch,-1695.777,-945.705,-186.635,-645.383,-821.482,-263.969,crouch=false,auto_motion=true,de_mirage
+Conn Arch,-1511.175,-1061.713,-220.896,-626.627,-807.696,-263.969,crouch=false,auto_motion=true,de_mirage
+Arth + Palace,527.969,-550.182,-155.969,559.512,-2254.918,-39.969,crouch=false,auto_motion=true,de_mirage
+Arth + Palace,527.969,-550.182,-155.969,544.269,-1556.825,-263.969,crouch=false,auto_motion=true,de_mirage
+Kitchen,-1083.193,266.798,-167.458,-979.411,540.319,-79.969,crouch=false,auto_motion=true,de_mirage
+Catwalk,-999.509,585.695,-79.969,-1083.133,266.722,-120.470,crouch=false,auto_motion=true,de_mirage
+Ladder room,-1022.973,-456.310,-307.810,-1001.186,-99.366,-167.969,crouch=false,auto_motion=true,de_mirage
+Ladder room[AWP],284.814,-321.075,-166.587,-1136.161,-363.200,-55.969,crouch=false,auto_motion=true,de_mirage
+Door,-311.445,726.990,-93.598,-1578.089,63.172,-167.987,crouch=false,auto_motion=true,de_mirage
+Chair,-1619.894,-1533.879,-264.170,-839.083,-788.967,-221.969,crouch=false,auto_motion=true,de_mirage
+Palace Door[Duck],-1488.033,-1027.105,-212.244,138.192,-2280.034,-39.969,crouch=false,auto_motion=true,de_mirage
+B Apartment[Fake Duck],-1577.364,52.652,-167.985,-293.545,738.194,-103.675,crouch=false,auto_motion=true,de_mirage
+A Bomb site,-1515.998,-1423.689,-259.969,-739.581,-1859.292,-179.969,crouch=false,auto_motion=true,de_mirage
+A Bomb site,-1515.998,-1423.689,-259.969,-435.422,-2018.258,-179.969,crouch=false,auto_motion=true,de_mirage
+A Bomb site[R],-1508.913,-1412.416,-259.969,-537.427,-2259.766,-176.142,crouch=false,auto_motion=true,de_mirage
+Jungle,-1546.452,-1488.627,-259.96,-1201.135,-1054.688,-167.969,crouch=false,auto_motion=true,de_mirage
+Site,-806.581,-21.960,-168.130,-1577.314,51.926,-167.985,crouch=false,auto_motion=true,de_mirage
+Site,-1636.871,46.719,-168.429,-806.581,-21.960,-168.130,crouch=false,auto_motion=true,de_mirage
+Palace,-353.186,-2073.827,-100.969,214.192,-2280.033,-39.969,crouch=false,auto_motion=true,de_mirage
+Palace,-327.272,-2130.503,-100.969,399.102,-2274.140,-39.969,crouch=false,auto_motion=true,de_mirage
+Palace,-58.806,-1767.684,-167.969,942.465,-1899.704,-71.969,crouch=false,auto_motion=true,de_mirage
+Door,-1283.351,171.291,89.920,-2035.202,285.284,88.031,crouch=true,auto_motion=true,de_ancient
+Outside,-1334.365,648.134,66.884,-1159.473,-1339.321,-23.219,crouch=false,auto_motion=true,de_ancient
+Dount,-1134.944,-1617.223,-19.969,-1329.124,680.038,56.020,crouch=false,auto_motion=true,de_ancient
+Dount,-1071.724,-1479.511,-21.040,-1420.807,323.133,87.031,crouch=false,auto_motion=true,de_ancient
+Dount,-1071.815,-1479.489,-21.011,-1355.672,327.828,87.031,crouch=false,auto_motion=true,de_ancient
+Dount,-1080.707,-1480.434,-21.071,-1288.293,276.865,90.092,crouch=false,auto_motion=true,de_ancient
+Outside,-1360.712,679.417,56.227,-1082.854,-1472.174,-20.061,crouch=false,auto_motion=true,de_ancient
+B ramp,-477.975,45.709,112.021,1177.955,-439.093,53.019,crouch=false,auto_motion=true,de_ancient
+Snake,-263.626,-220.460,68.031,-180.742,-697.127,157.526,crouch=false,auto_motion=true,de_ancient
+Construction,-374.009,-685.376,32.031,778.582,-817.003,69.443,crouch=true,auto_motion=true,de_ancient
+Jungle,833.683,-770.032,49.850,-1311.691,-1139.593,-12.307,crouch=false,auto_motion=true,de_ancient
+Jungle,833.771,-770.008,49.821,-1496.416,-1437.750,-23.256,crouch=false,auto_motion=true,de_ancient
+Jungle,349.803,-797.819,141.495,-1224.787,-1484.827,-23.256,crouch=true,auto_motion=true,de_ancient
+Jungle,3.090,-734.451,153.031,-1224.787,-1482.437,-23.256,crouch=false,auto_motion=true,de_ancient
+Lower Mid [Duck],-1359.275,125.809,88.864,-764.411,-691.720,34.893,crouch=true,auto_motion=true,de_ancient
+Dount,-805.577,-656.032,41.831,-1321.763,104.766,105.414,crouch=false,auto_motion=true,de_ancient
+T Lower,-247.011,814.809,77.664,1096.071,-808.673,4.487,crouch=false,auto_motion=true,de_ancient
+House,1082.618,-789.268,5.165,-220.094,782.775,77.664,crouch=false,auto_motion=false,de_ancient
+Back hrlls,1184.685,-375.659,76.343,827.322,794.291,113.578,crouch=false,auto_motion=false,de_ancient
+Back hrlls,1184.685,-375.659,76.343,1051.445,789.035,124.255,crouch=false,auto_motion=false,de_ancient
+Ramp,1192.536,240.034,130.531,946.934,-664.067,33.599,crouch=false,auto_motion=true,de_ancient
+Ramp,1204.206,240.078,130.531,1178.365,-729.021,9.381,crouch=false,auto_motion=true,de_ancient
+Wall,-257.981,931.480,81.031,-1044.028,960.440,69.524,crouch=false,auto_motion=false,de_ancient
+Door,-1201.271,-359.969,106.366,-1789.840,-607.210,72.031,crouch=false,auto_motion=true,de_ancient
+Tunnels,-1166.608,856.529,11776.031,-1624.394,-823.826,11488.031,crouch=false,auto_motion=true,de_vertigo
+Tunnels,-1399.352,593.162,11874.031,-2028.805,-469.054,11552.031,crouch=false,auto_motion=false,de_vertigo
+Door,-1527.999,595.031,11874.031,-1866.459,-487.883,11552.031,crouch=false,auto_motion=true,de_vertigo
+CT,-1590.000,-1050.153,11488.031,-1160.742,972.652,11776.031,crouch=false,auto_motion=true,de_vertigo
+T,-1166.766,977.712,11776.031,-1590.000,-1050.153,11488.031,crouch=false,auto_motion=true,de_vertigo
+Under Elevator,-995.708,168.508,11776.031,-1501.215,-518.455,11488.031,crouch=false,auto_motion=true,de_vertigo
